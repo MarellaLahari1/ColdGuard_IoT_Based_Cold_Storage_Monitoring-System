@@ -178,7 +178,7 @@ The main loop handles sensor readings, LCD updates, threshold checking, door mon
 
 ### Main Loop State Machine
 
-![Main Loop State Machine](Tmages/main_loop_state_machine.png)
+![Main Loop State Machine](Images/main_loop_state_machine.png)
 
 ---
 
